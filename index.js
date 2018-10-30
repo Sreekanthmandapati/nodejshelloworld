@@ -1,3 +1,3 @@
 
 
-console.log("Server running at http://localhost:%d");
+console.log("Server running at http://localhost");
